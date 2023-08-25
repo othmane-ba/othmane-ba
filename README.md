@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Othmane Bakkas and I'm a passionate FullStack Developer, from Morocco.</h2>
+<h2 align="center">Hi 👋! My name is Othmane Bakkas <br><br>I'm a passionate FullStack Developer, from Morocco.</h2>
 
 ###
 <div align="left">
@@ -11,11 +11,6 @@
 </div>
 
 ###
-
-<!-- <img align="right" height="150" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"  /> -->
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
   <img width="12" />
@@ -57,19 +52,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
-
-###
-
-<div align="center">
-
-<a href="mailto:othmane.bakkas@gmail.com">![othmane.bakkas@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/othmane-bakkas/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
-</div>
-
-###
-
-<br clear="both">
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -85,4 +67,11 @@
   />
 </picture>
 
+<br clear="both">
+
+<div align="center">
+
+<a href="mailto:othmane.bakkas@gmail.com">![othmane.bakkas@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/othmane-bakkas/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+</div>
 ###
