@@ -69,9 +69,10 @@
 
 <br clear="both">
 
+###
+
 <div align="center">
 
 <a href="mailto:othmane.bakkas@gmail.com">![othmane.bakkas@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/othmane-bakkas/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 </div>
-###
