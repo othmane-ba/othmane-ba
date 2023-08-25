@@ -66,6 +66,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/othmane-ba/othmane-ba/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/othmane-ba/othmane-ba/output/snake.svg](https://profile-readme-generator.com/assets/snake.svg)https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
