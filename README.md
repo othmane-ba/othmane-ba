@@ -1,17 +1,17 @@
-<h2 align="center">Hi 👋! My name is Othmane Bakkas <br><br>I'm a passionate FullStack Developer, from Morocco.</h2>
+<h2 align="center">Hi 👋! My name is Othmane Bakkas <br>I'm a passionate FullStack Developer, from Morocco.</h2>
 
 ###
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=othmane-ba&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=othmane-ba&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
 </div>
-<div>
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=othmane-ba&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph" />
   <img src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" height="150" alt="animated gif" />
 </div>
 
 ###
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
