@@ -15,6 +15,7 @@
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=othmane-ba&theme=dracula&row=1&no-frame=true" alt="othmane-ba" />
 </div>
+<br clear="both">
 
 ###
 
