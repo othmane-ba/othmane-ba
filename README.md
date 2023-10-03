@@ -11,6 +11,11 @@
 </div>
 
 ###
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=othmane-ba&theme=dracula&row=1&no-frame=true" alt="othmane-ba" />
+</div>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
   <img width="12" />
@@ -70,10 +75,6 @@
 <br clear="both">
 
 ###
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=othmane-ba&theme=dracula&row=1" alt="othmane-ba" />
-</div>
 
 
 <div align="center">
